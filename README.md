@@ -1,4 +1,3 @@
-# Save WebDap
 apt update && apt upgrade
 
 pkg install python2
