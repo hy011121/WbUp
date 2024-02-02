@@ -13,7 +13,4 @@ git clone https://github.com/TnMasha/Wgps
 
 python2 Wgps.py
 
-Jika Masih Bingung Hubungi 
-
-Contach me:+6283842862269
 
