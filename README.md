@@ -11,6 +11,6 @@ pip2 bs4
 
 git clone https://github.com/TnMasha/Wgps
 
-python2 Wgps.py
+python2 run.py
 
 
